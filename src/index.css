@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-jacques {
+  font-family: "Jacques Francois Shadow", cursive;
+}
+.font-itim {
+  font-family: "Itim", cursive;
+}
+.font-kaushan {
+  font-family: "Kaushan Script", cursive;
+}
