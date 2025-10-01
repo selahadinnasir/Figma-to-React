@@ -1,3 +1,10 @@
+# Project Title
+A React implementation of a landing page.
+
+- 🔗 [Live Demo](https://yourprojectlink.com)
+- 🎨 [Original Figma Design](https://www.figma.com/design/cxB4coXKwrbu65ey1OUbGc/Ecomerce-Website--Community-?node-id=0-1&p=f&t=FFzo8RYMEhKYNHnx-0)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
