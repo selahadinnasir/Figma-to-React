@@ -1,7 +1,7 @@
 # Project Title
 A React implementation of a landing page.
 
-- 🔗 [Live Demo](https://yourprojectlink.com)
+- 🔗 [Live Demo](ecomercedesign.netlify.app)
 - 🎨 [Original Figma Design](https://www.figma.com/design/cxB4coXKwrbu65ey1OUbGc/Ecomerce-Website--Community-?node-id=0-1&p=f&t=FFzo8RYMEhKYNHnx-0)
 
 
